@@ -1,4 +1,53 @@
 # Coding Interview University
+## Read this
+- Java
+  - [Stanford CS106A - Programming Methodology (video)](https://see.stanford.edu/Course/CS106A)
+  - [Java Cheat Sheet](https://www.interviewbit.com/java-cheat-sheet)
+  - [Introduction To Programming In Java](http://introcs.cs.princeton.edu/java/home/)
+  - [Algorithms 4th Ed - Algorithm Book In Java](http://algs4.cs.princeton.edu/home/)
+  - [Effective Java 3rd Edition](https://www.amazon.com/Effective-Java-Joshua-Bloch-ebook/dp/B078H61SCH)
+  - [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM&t=1744s)
+  - [Top Java Interview Questions and Answers](https://www.interviewbit.com/java-interview-questions)
+  - [Data Structures in Java](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+## Book
+
+### Interview
+- [Programming Interviews Exposed: Coding Your Way Through the Interview, 4th Edition](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview/dp/111941847X/)
+    - Answers in C++ and Java
+    - This is a good warm-up for Cracking the Coding Interview
+    - Not too difficult. Most problems may be easier than what you'll see in an interview (from what I've read)
+- [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
+    - answers in Java
+
+### Java
+Your choice:
+
+- Goodrich, Tamassia, Goldwasser
+    - [Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/)
+- Sedgewick and Wayne:
+    - [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)
+    - Free Coursera course that covers the book (taught by the authors!):
+        - [Algorithms I](https://www.coursera.org/learn/algorithms-part1)
+        - [Algorithms II](https://www.coursera.org/learn/algorithms-part2)
+
+
+## Coding Problems
+
+Don't forget your key coding interview books [here](#interview-prep-books).
+
+Solving Problems:
+- [How to Find a Solution](https://www.topcoder.com/thrive/articles/How%20To%20Find%20a%20Solution)
+- [How to Dissect a Topcoder Problem Statement](https://www.topcoder.com/thrive/articles/How%20To%20Dissect%20a%20Topcoder%20Problem%20Statement%20Content)
+
+Coding Interview Question Videos:
+- [IDeserve (88 videos)](https://www.youtube.com/playlist?list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI)
+- [Tushar Roy (5 playlists)](https://www.youtube.com/user/tusharroy2525/playlists?shelf_id=2&view=50&sort=dd)
+    - Super for walkthroughs of problem solutions
+- [Nick White - LeetCode Solutions (187 Videos)](https://www.youtube.com/playlist?list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-)
+    - Good explanations of the solution and the code
+    - You can watch several in a short time
+- [FisherCoder - LeetCode Solutions](https://youtube.com/FisherCoder)
+
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 
